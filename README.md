@@ -6,7 +6,7 @@
 
 ### Overview
 
-The goal of the notebook is explore how variables in a Telecom churn dataset are related to each other, identify key drivers of churn and finally predict churn. The focus of the project was on **Data Analaysis** through **Data Visualisation** and understanding important drivers of churning through Feature Importance by building and interpreting **Machine Learning** model. Some of the key visualisations are shown below.
+The goal of the notebook is explore how variables in a Telecom churn dataset are related to each other, identify key drivers of churn and finally predict churn. The focus of the project was on **Data Analaysis** through **Data Visualisation** and understanding important drivers of customer churn through Feature Importance by building and interpreting **Machine Learning** model. Some of the key visualisations are shown below.
 
 <img src="churn2.png?raw=true"/>
 
